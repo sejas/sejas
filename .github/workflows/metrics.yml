@@ -27,6 +27,7 @@ jobs:
           user: sejas
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: Atlantic/Canary
           plugin_habits: yes
           plugin_habits_charts: yes
