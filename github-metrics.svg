@@ -571,23 +571,27 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-54.546,-58.521L0,0Z">
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-59.629,-53.333L0,0Z">
                                         <title>TypeScript
 23.68</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-53.81,-59.199A80,80,0,0,1,-51.562,-61.166L0,0Z">
+                                    <path fill="#4F5D95" d="M-58.958,-54.074A80,80,0,0,1,-56.932,-56.203L0,0Z">
                                         <title>PHP
 0.16</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-50.794,-61.806A80,80,0,0,1,-20.809,-77.246L0,0Z">
+                                    <path fill="#f1e05a" d="M-56.225,-56.91A80,80,0,0,1,-28.299,-74.828L0,0Z">
                                         <title>JavaScript
 1.82</title>
                                     </path>
-                                    <path fill="#563d7c" d="M-19.842,-77.5A80,80,0,0,1,-6.786,-79.712L0,0Z">
+                                    <path fill="#fcb32c" d="M-27.361,-75.176A80,80,0,0,1,-20.53,-77.321L0,0Z">
+                                        <title>MDX
+0.39</title>
+                                    </path>
+                                    <path fill="#563d7c" d="M-19.562,-77.571A80,80,0,0,1,-6.716,-79.718L0,0Z">
                                         <title>CSS
 0.71</title>
                                     </path>
-                                    <path fill="#384d54" d="M-5.789,-79.79A80,80,0,0,1,-1.5,-79.986L0,0Z">
+                                    <path fill="#384d54" d="M-5.719,-79.795A80,80,0,0,1,-1.5,-79.986L0,0Z">
                                         <title>Dockerfile
 0.23</title>
                                     </path>
@@ -597,21 +601,24 @@
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(14.539175255669743,37.26408972301512)">
+                                    <text transform="translate(16.21588711301858,36.56562600500418)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
                                         <tspan x="0" y="1.1em">23.68</tspan>
                                     </text>
-                                    <text transform="translate(-26.347673371748588,-30.096513218239256)">
+                                    <text transform="translate(-28.97733752264414,-27.57379027443924)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
                                     </text>
-                                    <text transform="translate(-18.312114011051158,-35.562149547605586)">
+                                    <text transform="translate(-21.600530137609226,-33.666260525550435)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                         <tspan x="0" y="1.1em">1.82</tspan>
                                     </text>
-                                    <text transform="translate(-6.6798914692098865,-39.438294207021386)">
+                                    <text transform="translate(-11.98481603079072,-38.16233987464739)">
+                                        <tspan x="0" y="0em" font-weight="bold">MDX</tspan>
+                                    </text>
+                                    <text transform="translate(-6.591382552182016,-39.453183344956976)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-1.8229643155657869,-39.95843842174233)">
+                                    <text transform="translate(-1.8053388098058614,-39.959238628655186)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
                                     <text transform="translate(-0.24999837239900538,-39.99921875254313)">
@@ -2629,7 +2636,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 May 2023, 10:02:07 (timezone Atlantic/Canary) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 May 2023, 11:01:58 (timezone Atlantic/Canary) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
