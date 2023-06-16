@@ -33,8 +33,8 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            329 issue comments
+                            330 issue comments
                         </div>
                     </section>
                     <section>
@@ -316,7 +316,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.5 characters per line of code written</li>
+                        <li>Has approximately 33.6 characters per line of code written</li>
                         <li>Mostly pushes code around 11:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -583,45 +583,52 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-67.168,43.456L0,0Z">
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-61.702,50.921L0,0Z">
                                         <title>TypeScript
-63.32</title>
+61.58</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-67.706,42.613A80,80,0,0,1,-79.977,1.924L0,0Z">
-                                        <title>TSX
-8.24</title>
-                                    </path>
-                                    <path fill="#f1e05a" d="M-79.995,0.924A80,80,0,0,1,-65.736,-45.594L0,0Z">
+                                    <path fill="#f1e05a" d="M-62.333,50.145A80,80,0,0,1,-79.999,-0.431L0,0Z">
                                         <title>JavaScript
-9.47</title>
+10.47</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-65.161,-46.412A80,80,0,0,1,-7.596,-79.639L0,0Z">
+                                    <path fill="#563d7c" d="M-79.987,-1.43A80,80,0,0,1,-79.62,-7.784L0,0Z">
+                                        <title>CSS
+1.22</title>
+                                    </path>
+                                    <path fill="#3178c6" d="M-79.517,-8.778A80,80,0,0,1,-64.531,-47.283L0,0Z">
+                                        <title>TSX
+8.01</title>
+                                    </path>
+                                    <path fill="#c6538c" d="M-63.935,-48.086A80,80,0,0,1,-7.437,-79.654L0,0Z">
                                         <title>SCSS
-13.13</title>
+12.77</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-6.6,-79.727A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#4F5D95" d="M-6.441,-79.74A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>PHP
-1.17</title>
+1.14</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(35.07637316224847,19.226233270786423)">
+                                    <text transform="translate(36.129474902978394,17.165693788339993)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">63.32</tspan>
+                                        <tspan x="0" y="1.1em">61.58</tspan>
                                     </text>
-                                    <text transform="translate(-38.296492501071555,11.54896801083845)">
-                                        <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
-                                        <tspan x="0" y="1.1em">8.24</tspan>
-                                    </text>
-                                    <text transform="translate(-38.243687650093584,-11.722642830099348)">
+                                    <text transform="translate(-37.76272269273442,13.190025581159446)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">9.47</tspan>
+                                        <tspan x="0" y="1.1em">10.47</tspan>
                                     </text>
-                                    <text transform="translate(-19.996281443780045,-34.643162794715174)">
+                                    <text transform="translate(-39.93351353906207,-2.305319159150556)">
+                                        <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
+                                    </text>
+                                    <text transform="translate(-37.276433856755276,-14.507497334928203)">
+                                        <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
+                                        <tspan x="0" y="1.1em">8.01</tspan>
+                                    </text>
+                                    <text transform="translate(-19.510403615524172,-34.91910867647314)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
-                                        <tspan x="0" y="1.1em">13.13</tspan>
+                                        <tspan x="0" y="1.1em">12.77</tspan>
                                     </text>
-                                    <text transform="translate(-1.7763644736317779,-39.96053714925287)">
+                                    <text transform="translate(-1.736444634154826,-39.96229172648279)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
                                     </text>
                                 </g>
@@ -2651,7 +2658,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jun 2023, 15:02:04 (timezone Atlantic/Canary) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Jun 2023, 16:01:55 (timezone Atlantic/Canary) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
