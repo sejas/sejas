@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1449 Commits
+                            1450 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -316,7 +316,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 34.7 characters per line of code written</li>
+                        <li>Has approximately 33.5 characters per line of code written</li>
                         <li>Mostly pushes code around 11:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -583,53 +583,46 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-39.838,69.376L0,0Z">
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-67.168,43.456L0,0Z">
                                         <title>TypeScript
-55.99</title>
+63.32</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-40.702,68.872A80,80,0,0,1,-62.412,50.047L0,0Z">
+                                    <path fill="#3178c6" d="M-67.706,42.613A80,80,0,0,1,-79.977,1.924L0,0Z">
                                         <title>TSX
-5.53</title>
+8.24</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-63.033,49.263A80,80,0,0,1,-79.99,1.295L0,0Z">
-                                        <title>SCSS
-9.91</title>
-                                    </path>
-                                    <path fill="#f1e05a" d="M-79.999,0.295A80,80,0,0,1,-14.745,-78.629L0,0Z">
+                                    <path fill="#f1e05a" d="M-79.995,0.924A80,80,0,0,1,-65.736,-45.594L0,0Z">
                                         <title>JavaScript
-21.27</title>
+9.47</title>
                                     </path>
-                                    <path fill="#4F5D95" d="M-13.761,-78.808A80,80,0,0,1,-9.16,-79.474L0,0Z">
+                                    <path fill="#c6538c" d="M-65.161,-46.412A80,80,0,0,1,-7.596,-79.639L0,0Z">
+                                        <title>SCSS
+13.13</title>
+                                    </path>
+                                    <path fill="#4F5D95" d="M-6.6,-79.727A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>PHP
-0.89</title>
-                                    </path>
-                                    <path fill="#878787" d="M-8.166,-79.582A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <title>Hack
-1.47</title>
+1.17</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(38.616732552065486,10.428229332070034)">
+                                    <text transform="translate(35.07637316224847,19.226233270786423)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">55.99</tspan>
+                                        <tspan x="0" y="1.1em">63.32</tspan>
                                     </text>
-                                    <text transform="translate(-26.204548156932187,30.2212120188953)">
+                                    <text transform="translate(-38.296492501071555,11.54896801083845)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
-                                        <tspan x="0" y="1.1em">5.53</tspan>
+                                        <tspan x="0" y="1.1em">8.24</tspan>
                                     </text>
-                                    <text transform="translate(-37.71305498939832,13.331372148680668)">
-                                        <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
-                                        <tspan x="0" y="1.1em">9.91</tspan>
-                                    </text>
-                                    <text transform="translate(-30.827730105207024,-25.488253305405465)">
+                                    <text transform="translate(-38.243687650093584,-11.722642830099348)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">21.27</tspan>
+                                        <tspan x="0" y="1.1em">9.47</tspan>
                                     </text>
-                                    <text transform="translate(-5.732788880386352,-39.58705762813042)">
+                                    <text transform="translate(-19.996281443780045,-34.643162794715174)">
+                                        <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
+                                        <tspan x="0" y="1.1em">13.13</tspan>
+                                    </text>
+                                    <text transform="translate(-1.7763644736317779,-39.96053714925287)">
                                         <tspan x="0" y="0em" font-weight="bold">PHP</tspan>
-                                    </text>
-                                    <text transform="translate(-2.1689929761973876,-39.94115007694704)">
-                                        <tspan x="0" y="0em" font-weight="bold">Hack</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -2658,7 +2651,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jun 2023, 12:01:47 (timezone Atlantic/Canary) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Jun 2023, 13:02:08 (timezone Atlantic/Canary) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
