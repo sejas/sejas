@@ -1,10 +1,10 @@
 # Antonio Sejas
 
-Software Engineer at [Automattic](https://automattic.com), building tools that make WordPress.com better for developers and agencies — Studio, Staging Sites, WP-CLI, and WordPress Playground.
+Software Engineer at Automattic, building AI-powered tools for WordPress, Studio Code, WP-CLI, and Playground to help anyone share their business, talents, and products with the world.
 
 Based in the Canary Islands. Originally from Madrid. MSc in Artificial Intelligence.
 
-Before Automattic I built [harvard.edu](https://www.harvard.edu) at Modern Tribe, taught React at Udacity, and helped startups ship their first products.
+Before Automattic I rebuilt [harvard.edu](https://www.harvard.edu) at Modern Tribe, taught React at Udacity, and helped startups to ship their first products.
 
 Nowadays I code with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) as my daily driver and embrace AI as a force multiplier — not to replace thinking, but to spend more time on the problems that matter.
 
